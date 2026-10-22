@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Claude Code Skills Starter Kit" width="100%"/>
+</p>
+
+<p align="center">
+  <strong>A small, well-documented set of Claude Code skills</strong><br/>
+  Install as-is · or use as a reference for building your own
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="MIT license"/></a>
+  <img src="https://img.shields.io/badge/skills-6-0ea5e9?style=flat-square" alt="6 skills"/>
+  <img src="https://img.shields.io/badge/Claude_Code-skills-d97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/idioma-pt--BR-009c3b?style=flat-square" alt="idioma pt-BR"/>
+</p>
+
+---
+
 # Claude Code Skills Starter Kit
 
 A small, well-documented set of Claude Code skills you can install as-is or use as a reference for building your own.
@@ -29,7 +47,7 @@ The skill content is written in Brazilian Portuguese, since that's the language 
 Copy the skill folders you want into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/claude-code-skills-starter.git
+git clone https://github.com/alexander-stack1/claude-code-skills-starter.git
 cp -r claude-code-skills-starter/skills/entrevistar ~/.claude/skills/
 cp -r claude-code-skills-starter/skills/sintetizador ~/.claude/skills/
 # ...repeat for the ones you want
